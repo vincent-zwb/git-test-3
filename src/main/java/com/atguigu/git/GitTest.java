@@ -13,6 +13,6 @@ public class GitTest {
         System.out.println("chongtuhebing1+3");
         System.out.println("chongtuhebing1+2+3");
         System.out.println("chongtuhebing1+2+4+6");
-        System.out.println("chongtuhebing1+2+4+5");
+        System.out.println("chongtuhebing1+2+4+5+8");
     }
 }
